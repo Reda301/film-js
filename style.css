@@ -1,0 +1,49 @@
+body
+{
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #000000;
+}
+
+h1
+{
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+h5
+{
+    background-color:peru;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+    font-weight: bold;
+}
+
+h4
+{
+    background-color: peru;
+}
+
+#nameComedie
+{
+    margin-left: 13%;
+}
+
+#nameFantastique
+{
+    margin-left: 28%;
+}
+
+#nameScienceFiction
+{
+    margin-left: 20%;
+}
+
+.row
+{
+    margin-top: 5%;
+    color: #f2f2f2;
+}
